@@ -1,0 +1,6 @@
+@hoho_HostAddress = http://localhost:5280
+
+GET {{hoho_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
